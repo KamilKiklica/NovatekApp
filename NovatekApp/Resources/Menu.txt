@@ -1,0 +1,8 @@
+﻿Welcome into Console APP made for recrutation process.
+
+Choose option:
+
+1. Show list with sum of date digits, multiplicated by each day, in 2020yr.
+2. Show in descending order all prime numbers from the given range of integers.
+3. Show average of two neighbour prime numbers (from option number 2).
+0. Exit.
